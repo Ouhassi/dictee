@@ -46,7 +46,9 @@
     font-size: 50px;
     text-align: center;
   }
-  
+  td {
+      text-align:center;
+  }
   /* Style the top navigation bar */
   .topnav {
     overflow: hidden;
